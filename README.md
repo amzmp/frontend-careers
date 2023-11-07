@@ -3,10 +3,10 @@
 Você deve construir um projeto de Frontend, contendo toda a estrutura visual de um site, o layout foi criado utilizando o Adobe XD.  
 
 Link de download da ferramenta do Adobe XD: https://www.adobe.com/br/products/xd.html
-Link de download do Layout: http://amzmp.com.br/teste/frontend.rar
+Link de download do Layout: http://amzmp.com.br/teste/frontend.7z
 
 Link para acessar as imagens do layout:
-https://xd.adobe.com/view/3052fbb4-6842-4509-a223-9f02967d9e90-6501/specs/
+https://xd.adobe.com/view/6cc2965f-f2e2-4d8e-b746-ab22df1f99a4-3991/?fullscreen
 
 Fique a vontade para usar o arquivo do .xd ou utilizar as imagens do terceiro link para utilizar no site.
 
