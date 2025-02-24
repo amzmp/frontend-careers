@@ -18,8 +18,10 @@ Recomendação de linguagens/frameworks:
 - Bootstrap
 
 # Como realizo a entrega?
-A entrega pode ser realizada via Github, enviando o link do GitHub contendo a aplicação de teste para rh@amzmp.com.br 
-Caso preferir, pode criar um pacote zipado (WinRar, WinzZip, 7-zip, etc...) enviando para o email rh@amzmp.com.br
+A entrega pode ser realizada via Github, enviando o link do GitHub contendo a aplicação de teste para rh@amzmp.com.br.
+
+Caso preferir, pode criar um pacote zipado (WinRar, WinzZip, 7-zip, etc...) enviando para o email rh@amzmp.com.br.
+
 Coloque no assunto:  
 `[Teste - Frontend] Seu Nome`  
 Favor evidenciar a forma de setup inicial da aplicação, caso tiver alguma forma específica.
