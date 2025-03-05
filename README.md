@@ -1,24 +1,28 @@
-# O que devo fazer no teste
 
-Você deve construir um projeto de Frontend, contendo toda a estrutura visual de um site, o layout foi criado utilizando o Adobe XD.  
+## O que fazer no teste
 
-Link de download da ferramenta do Adobe XD: https://amzmp.com.br/teste/AdobeXD.zip
+Neste teste, você deve desenvolver um projeto de Frontend, recriando a estrutura visual de um site com base em um layout criado no Adobe XD.
 
-Link de download do Layout: https://amzmp.com.br/teste/Layout.zip
+### Materiais para o desenvolvimento:
 
-Link para acessar as imagens do layout:
-https://xd.adobe.com/view/a1a6e7d6-9c87-4934-a3db-18379b418596-f4f5/specs/
+- *Ferramenta do Adobe XD*: [Baixe o Adobe XD aqui](https://amzmp.com.br/teste/AdobeXD.zip)
+- *Layout do site*: [Baixe o layout aqui](https://amzmp.com.br/teste/Layout.zip)
+- *Imagens do layout*: [Acesse as imagens do layout aqui](https://xd.adobe.com/view/a1a6e7d6-9c87-4934-a3db-18379b418596-f4f5/specs/)
 
-*Para baixar as imagens selecione a imagem desejada e no menu lateral direito e clique em baixar, este mesmo porcesso tambem pode ser feito diretamente no AdobeXD.*
-Fique a vontade para usar o arquivo do .xd ou utilizar as imagens do terceiro link para utilizar no site.
+### Instruções para baixar as imagens:
+1. No link acima, selecione a imagem desejada.
+2. No menu lateral direito, clique em *Baixar*.
+3. Você também pode realizar esse processo diretamente no Adobe XD.
 
+Sinta-se à vontade para utilizar o arquivo .xd ou fazer o download das imagens no link acima para utilizá-las no seu projeto.
 
-A codificação deste layout não precisa ser 100% fiel, mas tente seguir a estrutura, imagens e tamanhos das fontes
+### Detalhes sobre a codificação:
+Embora não seja necessário que o layout seja 100% fiel, procure seguir a estrutura do design, respeitando as imagens e os tamanhos de fontes.
 
-Recomendação de linguagens/frameworks:  
-- HTML5
-- ReactJS
-- Bootstrap
+### Tecnologias recomendadas:
+- *HTML5*
+- *ReactJS*
+- *Bootstrap*
 
 
 # Como realizo a entrega?
