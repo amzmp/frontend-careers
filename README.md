@@ -2,13 +2,16 @@
 
 Você deve construir um projeto de Frontend, contendo toda a estrutura visual de um site, o layout foi criado utilizando o Adobe XD.  
 
-Link de download da ferramenta do Adobe XD: https://www.adobe.com/br/products/xd.html
+Link de download da ferramenta do Adobe XD: https://amzmp.com.br/teste/AdobeXD.zip
+
 Link de download do Layout: https://amzmp.com.br/teste/Layout.zip
 
 Link para acessar as imagens do layout:
 https://xd.adobe.com/view/a1a6e7d6-9c87-4934-a3db-18379b418596-f4f5/specs/
 
+*Para baixar as imagens selecione a imagem desejada e no menu lateral direito e clique em baixar, este mesmo porcesso tambem pode ser feito diretamente no AdobeXD.*
 Fique a vontade para usar o arquivo do .xd ou utilizar as imagens do terceiro link para utilizar no site.
+
 
 A codificação deste layout não precisa ser 100% fiel, mas tente seguir a estrutura, imagens e tamanhos das fontes
 
@@ -16,6 +19,7 @@ Recomendação de linguagens/frameworks:
 - HTML5
 - ReactJS
 - Bootstrap
+
 
 # Como realizo a entrega?
 A entrega pode ser realizada via Github, enviando o link do GitHub contendo a aplicação de teste para rh@amzmp.com.br.
