@@ -21,7 +21,7 @@ Embora não seja necessário que o layout seja 100% fiel, procure seguir a estru
 
 ### Tecnologias recomendadas:
 - *HTML5*
-- *ReactJS/Vue.js*
+- *ReactJS | Vue.js*
 - *Bootstrap*
 
 
